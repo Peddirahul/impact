@@ -1,0 +1,89 @@
+*.photo{
+ background-image: url("https://y20india.in/wp-content/uploads/2024/04/Srinagar-Jammu-Kashmir.webp");
+ height: 100vh;
+ background-size: cover;
+}
+.container{
+    text-align:right;
+    color: aliceblue;
+    padding-right: 50px;
+}
+.h1{
+    color: orange;
+    text-decoration: underline;
+}
+.button{
+    height: 40px;
+    width: 80px;
+    text-align:center;
+
+}
+p{
+    color: aliceblue;
+}
+p1{
+    color:black;
+}
+.bg-container{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa0HMyCerBDRRp-HSpw-Iq6hBhDAGRIVBnmHsiYdkAdA&s");
+    height: 100vh;
+    background-size: cover;
+}
+.favourite-places{
+    color: aliceblue;
+    font-size: 30px;
+    font-family:'Roboto';
+    font-weight: bold;
+    padding: 15px;
+}
+.favourite-places-con{
+    background-color: white;
+    border-radius: 10px; 
+    padding: 15px;
+    margin: 15px;
+
+}
+h2{
+    color: chocolate;
+    font-family:Arial;
+    font-size: 25px;
+    font-weight: bold;
+}
+p{
+    color: black;
+    font-size: 13px;
+}
+.goa-img{
+    width: 100px;
+    height: 100px;
+}
+.bg-container2{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa0HMyCerBDRRp-HSpw-Iq6hBhDAGRIVBnmHsiYdkAdA&s");
+    height: 100vh;
+    background-size: cover;
+    padding: 20px;
+}
+
+.detailed-view{
+    text-align: center;
+    background-color: white;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    padding: 20px;
+
+}
+h3{
+    color: chocolate;
+    font-family:Arial;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+}
+p2{
+    color: black;
+    font-size: 13px;
+    text-align: center;
+}
